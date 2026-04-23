@@ -4,15 +4,7 @@ A clean, offline MCQ quiz app built with **Kotlin**, **Jetpack Compose**, and **
 
 ---
 
-## 📱 Screenshots
 
-| Question Screen | Answer Selected | Result Dialog |
-|:-:|:-:|:-:|
-| ![Q Screen](https://via.placeholder.com/180x380/F8F7FF/6C63FF?text=Q+Screen) | ![Selected](https://via.placeholder.com/180x380/F8F7FF/6C63FF?text=Selected) | ![Result](https://via.placeholder.com/180x380/F8F7FF/6C63FF?text=Result) |
-
-> Replace placeholder images above with actual screenshots from your phone.
-
----
 
 ## ✨ Features
 
