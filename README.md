@@ -160,3 +160,4 @@ April 2026
 ```
 MIT License — free to use and modify
 ```
+
